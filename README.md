@@ -70,7 +70,7 @@ This project showcases a clean UI, multi-page navigation, and reusable React com
 
 ```bash
 git clone https://github.com/adityasuryavanshi0412/nike-website-ui.git
-cd nike-shoes-react
+cd nike-website-ui
 npm install
 npm run dev
 
